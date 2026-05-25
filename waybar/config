@@ -1,4 +1,7 @@
 {
+
+    // you need to install otf-font-awesome Font for the icons to show up
+
     "height": 30,
     "spacing": 4,
 
